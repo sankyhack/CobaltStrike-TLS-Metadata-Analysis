@@ -7,3 +7,4 @@ I have attached herewith Metadata of certificates use by Cobalt Strike and also 
 If you are doing hunting in PCAP this data will surely give you starting point for investigation.
 eg. x509sat.CountryName == ""
 
+Note : In both the Metadata files use '$' as delimiter.
